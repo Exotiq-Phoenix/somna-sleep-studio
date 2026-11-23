@@ -1,0 +1,25 @@
+{
+  "name": "SOMNA \u2014 The Sleep Studio",
+  "short_name": "SOMNA",
+  "description": "A quiet, private studio for falling asleep.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080b16",
+  "theme_color": "#080b16",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
